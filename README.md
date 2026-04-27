@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**BeauLong999/BeauLong999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **BeauLong999**, a builder of things.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎨 Code is poetry
+- 🤔 Exploring new technologies
+- 🌟 Open source enthusiast
+- 🔭 Currently working on personal side projects
+
+## Tech
+
+`MongoDB` `Dart` `Laravel` `Django` `Java`
+
+---
+
+_Available for hire._
